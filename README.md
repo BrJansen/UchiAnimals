@@ -1,4 +1,4 @@
 UchiAnimals
 ===========
 
-College project application
+College project application - Mobile Game
